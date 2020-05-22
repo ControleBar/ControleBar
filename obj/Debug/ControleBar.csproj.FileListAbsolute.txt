@@ -1,0 +1,14 @@
+C:\Users\gabriel\Documents\Projeto_Programacao\ControleBar\ControleBar\bin\Debug\ControleBar.exe.config
+C:\Users\gabriel\Documents\Projeto_Programacao\ControleBar\ControleBar\bin\Debug\ControleBar.exe
+C:\Users\gabriel\Documents\Projeto_Programacao\ControleBar\ControleBar\bin\Debug\ControleBar.pdb
+C:\Users\gabriel\Documents\Projeto_Programacao\ControleBar\ControleBar\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\gabriel\Documents\Projeto_Programacao\ControleBar\ControleBar\obj\Debug\ControleBar.csprojAssemblyReference.cache
+C:\Users\gabriel\Documents\Projeto_Programacao\ControleBar\ControleBar\obj\Debug\ControleBar.Properties.Resources.resources
+C:\Users\gabriel\Documents\Projeto_Programacao\ControleBar\ControleBar\obj\Debug\ControleBar.Telas.FrmLogin.resources
+C:\Users\gabriel\Documents\Projeto_Programacao\ControleBar\ControleBar\obj\Debug\ControleBar.csproj.GenerateResource.cache
+C:\Users\gabriel\Documents\Projeto_Programacao\ControleBar\ControleBar\obj\Debug\ControleBar.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\Projeto_Programacao\ControleBar\ControleBar\obj\Debug\ControleBar.csproj.CopyComplete
+C:\Users\gabriel\Documents\Projeto_Programacao\ControleBar\ControleBar\obj\Debug\ControleBar.exe
+C:\Users\gabriel\Documents\Projeto_Programacao\ControleBar\ControleBar\obj\Debug\ControleBar.pdb
+C:\Users\gabriel\Documents\Projeto_Programacao\ControleBar\ControleBar\obj\Debug\ControleBar.Telas.FrmSplash.resources
+C:\Users\gabriel\Documents\Projeto_Programacao\ControleBar\ControleBar\obj\Debug\ControleBar.Telas.FrmFiado.resources
